@@ -1,2 +1,8 @@
 #Dependency directories
 node_modules/
+
+# Create random Celo account and ignore adding it
+.secret
+
+#Mac-based
+.DS_Store/*
